@@ -1,14 +1,12 @@
 body {
     background-color: black;
-    color:   white;
- /* Ensures text is visible on a black background */
+    color: white; /* Ensures text is visible on a black background */
     justify-content: center; /* Centers content horizontally */
     text-align: center; /* Centers text within the body */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-*/ HEADINGS */
-
+/* HEADINGS */
 .header, .main {
     font-weight: normal;
     font-size: 50px;
@@ -16,18 +14,16 @@ body {
 
 .header, .secondery {
     font-weight: 300;
-    color:   white;
+    color: white;
     font-size: 42px;
-
-} 
+}
 
 .header, .sub-header {
     font-size: 21px;
-    color: grey
+    color: grey;
 }
 
-*/ LINKS */
-
+/* LINKS */
 .link, .cta {
     font-size: 16px;
     color: aquamarine;
