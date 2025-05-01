@@ -1,0 +1,6 @@
+body {
+    background-color: black;
+    color: white; /* Ensures text is visible on a black background */
+    justify-content: center; /* Centers content horizontally */
+    text-align: center; /* Centers text within the body */
+}
